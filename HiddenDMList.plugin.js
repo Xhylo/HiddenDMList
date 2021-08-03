@@ -1,5 +1,4 @@
 /**
- * @format
  * @name HiddenDMList
  * @author Xyhlo
  * @authorId 536197278126309397
