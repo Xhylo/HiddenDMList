@@ -20,7 +20,8 @@ module.exports = class CompactFriends {
 		let container = document.getElementsByClassName(
 			'privateChannelsHeaderContainer-3NB1K1 container-2ax-kl'
 		)[0];
-		let DMContainer = document.getElementsByClassName('content-3YMskv')[0];
+		let directMessageEle = document.getElementsByClassName('content-3YMskv')[0];
+		directMessageEle.style.cursor = "pointer";
 		let hiddenDMs = [];
 		let hidden = true;
 
