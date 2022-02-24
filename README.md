@@ -19,7 +19,7 @@ Note: How to use the plugin? Turn on the plugin in the plugin section and just c
 <p align="center">
   <p align="center"><a href="https://imgur.com/a/bxaQJpB.gif">Animated preview</a></p>
   <h1 align="center">When on:</h1>
-  <p align="center"><img alt="Preview" alt="preview" src="https://cdn.discordapp.com/attachments/869695065210109992/872137045869494332/unknown.png"></p>
+  <p align="center"><img alt="Preview" alt="preview" src="https://cdn.discordapp.com/attachments/882708337219739701/946522684110569482/unknown.png"></p>
 <h1 align="center">When off:</h1>
-  <p align="center"><img alt="Preview" width="500" alt="preview" src="https://cdn.discordapp.com/attachments/869695065210109992/872137124625924216/unknown.png"></p>
+  <p align="center"><img alt="Preview" width="500" alt="preview" src="https://cdn.discordapp.com/attachments/882708337219739701/946522996892369026/unknown.png"></p>
 <p align="center">
