@@ -43,11 +43,11 @@
 	   if (!res.props.className.startsWith(dmClass)) return
 	   res.props.children.splice(1, 0, BdApi.React.createElement(hideDMListButton, { key: "HiddenDMList" }))
 	 })
-	 if(global.ZeresPluginLibrary != null) 
-      global.ZeresPluginLibrary.PluginUpdater.checkForUpdate(this.getName(), "1.0.0", "https://raw.githubusercontent.com/doggybootsy/BDPlugins/main/BackupCustomCSS/BackupCustomCSS.plugin.js")
+	if(global.ZeresPluginLibrary != null) 
+    global.ZeresPluginLibrary.PluginUpdater.checkForUpdate(this.getName(), "1.0.0", "https://raw.githubusercontent.com/Xhylo/HiddenDMList/main/HiddenDMList.plugin.js")
 	 forceUpdate()
    }
-   
+   getName() {return "HiddenDMList"}
    stop() {
 	 BdApi.Patcher.unpatchAll("HiddenDMList")
 	 forceUpdate()
